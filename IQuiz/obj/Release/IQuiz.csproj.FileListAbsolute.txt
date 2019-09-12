@@ -1,0 +1,17 @@
+D:\IQuiz\IQuiz\bin\Release\IQuiz.exe.config
+D:\IQuiz\IQuiz\obj\Release\Interop.WMPLib.dll
+D:\IQuiz\IQuiz\obj\Release\AxInterop.WMPLib.dll
+D:\IQuiz\IQuiz\obj\Release\IQuiz.csproj.ResolveComReference.cache
+D:\IQuiz\IQuiz\bin\Release\IQuiz.exe
+D:\IQuiz\IQuiz\bin\Release\IQuiz.pdb
+D:\IQuiz\IQuiz\bin\Release\Interop.WMPLib.dll
+D:\IQuiz\IQuiz\bin\Release\AxInterop.WMPLib.dll
+D:\IQuiz\IQuiz\obj\Release\IQuiz.csprojResolveAssemblyReference.cache
+D:\IQuiz\IQuiz\obj\Release\IQuiz.Form1.resources
+D:\IQuiz\IQuiz\obj\Release\IQuiz.Form2.resources
+D:\IQuiz\IQuiz\obj\Release\IQuiz.Form3.resources
+D:\IQuiz\IQuiz\obj\Release\IQuiz.Info_form.resources
+D:\IQuiz\IQuiz\obj\Release\IQuiz.Properties.Resources.resources
+D:\IQuiz\IQuiz\obj\Release\IQuiz.csproj.GenerateResource.Cache
+D:\IQuiz\IQuiz\obj\Release\IQuiz.exe
+D:\IQuiz\IQuiz\obj\Release\IQuiz.pdb
